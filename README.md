@@ -3,8 +3,8 @@ NSCache to make your app more snappy and performant.
 
 <table>
   <tr>
-    <td valign="top"><img width="516" src="https://github.com/YamamotoDesu/CacheExample/blob/main/CacheExample/Gif/nscache.gif"/></td>
-    <td valign="top"><img width="516"  src="https://user-images.githubusercontent.com/47273077/155275258-6ab6210e-0282-4686-b023-a6ecc7b2d526.png"/></td>
+    <td valign="top"><img width="300" src="https://github.com/YamamotoDesu/CacheExample/blob/main/CacheExample/Gif/nscache.gif"/></td>
+    <td valign="top"><img width="300"  src="https://github.com/YamamotoDesu/CacheExample/blob/main/CacheExample/Gif/demonscache.gif"/></td>
   </tr>
 </table>
 

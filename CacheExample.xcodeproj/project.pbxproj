@@ -16,6 +16,7 @@
 		7B501CE727E5C50A00E79990 /* ImageProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B501CE627E5C50A00E79990 /* ImageProvider.swift */; };
 		7B501CE927E5C57300E79990 /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B501CE827E5C57300E79990 /* SecondVC.swift */; };
 		7B501CEC27E5D03000E79990 /* nscache.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7B501CEB27E5D03000E79990 /* nscache.gif */; };
+		7B501CEE27E5D2E200E79990 /* demonscache.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7B501CED27E5D2E200E79990 /* demonscache.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		7B501CE627E5C50A00E79990 /* ImageProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProvider.swift; sourceTree = "<group>"; };
 		7B501CE827E5C57300E79990 /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
 		7B501CEB27E5D03000E79990 /* nscache.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = nscache.gif; sourceTree = "<group>"; };
+		7B501CED27E5D2E200E79990 /* demonscache.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demonscache.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		7B501CEA27E5CFFA00E79990 /* Gif */ = {
 			isa = PBXGroup;
 			children = (
+				7B501CED27E5D2E200E79990 /* demonscache.gif */,
 				7B501CEB27E5D03000E79990 /* nscache.gif */,
 			);
 			path = Gif;
@@ -145,6 +148,7 @@
 				7B501CEC27E5D03000E79990 /* nscache.gif in Resources */,
 				7B501CDF27E5C27E00E79990 /* LaunchScreen.storyboard in Resources */,
 				7B501CDC27E5C27E00E79990 /* Assets.xcassets in Resources */,
+				7B501CEE27E5D2E200E79990 /* demonscache.gif in Resources */,
 				7B501CDA27E5C27700E79990 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

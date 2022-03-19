@@ -36,7 +36,4 @@ class SecondVC: UIViewController {
             }
         }
     }
-    
-
-
 }
